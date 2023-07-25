@@ -21,7 +21,6 @@ class generateCommand extends Command implements CRM
      * @var string
      */
     protected $description = 'Command description';
-
     /**
      * Execute the console command.
      */
